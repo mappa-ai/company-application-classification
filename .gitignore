@@ -1,3 +1,7 @@
+*.db*
+company-behavior*
+hello.db*
+
 # Environment variables
 .env
 .env.local
