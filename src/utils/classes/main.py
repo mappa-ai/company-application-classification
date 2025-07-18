@@ -12,7 +12,7 @@ class Application:
         self,
         application_id: int,
         embedding: List[float],
-        threshold: float = 0.64,
+        threshold: float = 0.45,
     ) -> None:
         self.application_id = application_id
         self.embedding = embedding
